@@ -33,7 +33,7 @@ NEXT_PUBLIC_GOOGLE_CLIENT_ID=your_google_client_id
 
 
 
-⚠️ Never commit .env.local to GitHub.
+Never commit .env.local to GitHub.
 
 Run the development server
 
